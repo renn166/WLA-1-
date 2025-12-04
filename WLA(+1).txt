@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jadwal Pasaran Togel TopanBos88</title>
+<style>
+body {
+font-family: 'Segoe UI', sans-serif;
+margin: 0;
+padding: 20px;
+color: #ecf4ff;
+background: #13206D; /* Biru navy elegan */
+}
+
+h1 {
+text-align: center;
+margin-bottom: 25px;
+font-size: 28px;
+font-weight: 700;
+color: #5fb4ff;
+text-shadow: 0 0 8px rgba(95,180,255,0.6);
+}
+
+/* Grid */
+.container {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+gap: 20px;
+}
+
+/* Card */
+.card {
+display: flex;
+flex-direction: column;
+align-items: center;
+background: rgba(255,255,255,0.04); /* sedikit transparan biar elegan */
+border: 2px solid #5fb4ff; /* warna border lebih terang & jelas */
+border-radius: 14px;
+padding: 16px;
+transition: .25s;
+box-shadow: 0 0 10px rgba(95,180,255,0.15); /* glow lembut */
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    border-color: #ff3b3b;
+    box-shadow:
+        0 0 12px rgba(255, 40, 40, 0.7),
+        0 0 20px rgba(255, 0, 0, 0.6),
+        0 0 28px rgba(255, 0, 0, 0.45);
+}
+
+/* Title Card */
+.card h2 {
+color: #7cd4ff;
+font-size: 19px;
+font-weight: 600;
+margin-bottom: 12px;
+margin-top: 6px; /* naikin jarak dari atas */
+text-align: center;
+}
+
+/* Info */
+.info {
+font-size: 14px;
+margin: 6px 0;
+}
+.info span {
+font-weight: 600;
+}
+.close {
+color: #ff6e6e;
+}
+.open {
+color: #6effd7;
+}
+
+/* Button */
+.btn {
+margin-top: 14px;
+display: inline-block;
+padding: 10px 18px;
+border-radius: 10px;
+background: #5fb4ff;
+color: #0c1b33;
+font-weight: 600;
+text-decoration: none;
+transition: .25s;
+}
+.btn:hover {
+background: #7cd4ff;
+transform: scale(1.06);
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+  <h1>Jadwal Pasaran Togel TopanBos88</h1>
+  <div class="container">
+
+<div class="card">
+  <h2>HOKIDRAW 5D</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">Result 24x</span></div>
+  <div class="info">Buka: <span class="open">1 Jam Sekali</span></div>
+  <a href="https://hokidraw.com/live-draw.html" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>TOTO MACAU PAGI</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">00:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">00:15 WIB</span></div>
+  <a href="https://poolstotomacao.com/" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>KENTUCKY MIDDAY</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">01:05 WIB</span></div>
+  <div class="info">Buka: <span class="open">01:20 WIB</span></div>
+  <a href="https://www.kylottery.com/apps/" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>FLORIDA MIDDAY</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">01:20 WIB</span></div>
+  <div class="info">Buka: <span class="open">01:30 WIB</span></div>
+  <a href="https://floridalottery.com/games/draw-games/pick-4" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>HUAHIN 0100</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">00:45 WIB</span></div>
+  <div class="info">Buka: <span class="open">01:00 WIB</span></div>
+  <a href="https://huahinlottery.com/" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>BANGKOK 0130</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">01:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">01:30 WIB</span></div>
+  <a href="https://bangkokpoolstoday.com" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>NEWYORK MIDDAY</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">02:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">02:25 WIB</span></div>
+  <a href="https://nylottery.ny.gov" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>CAROLINA DAY</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">02:45 WIB</span></div>
+  <div class="info">Buka: <span class="open">03:00 WIB</span></div>
+  <a href="https://nclottery.com/Pick4" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>BRUNEI 02</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">02:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">02:45 WIB</span></div>
+  <a href="https://bruneipools.com" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>OREGON03</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">03:50 WIB</span></div>
+  <div class="info">Buka: <span class="open">04:00 WIB</span></div>
+  <a href="https://www.oregonlottery.org/pick-4/winning-numbers" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>OREGON06</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">06:50 WIB</span></div>
+  <div class="info">Buka: <span class="open"></span>07:00 WIB</div>
+  <a href="https://www.oregonlottery.org/pick-4/winning-numbers" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>CALIFORNIA</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">09:25 WIB</span></div>
+  <div class="info">Buka: <span class="open">09:30 WIB	</span></div>
+  <a href="https://www.calottery.com/play/draw-games/daily-4" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>FLORIDA EVENING</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">09:35 WIB</span></div>
+  <div class="info">Buka: <span class="open">09:45 WIB</span></div>
+  <a href="https://floridalottery.com/games/draw-games/pick-4" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>OREGON09</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">09:50 WIB</span></div>
+  <div class="info">Buka: <span class="open">10:00 WIB</span></div>
+  <a href="https://www.oregonlottery.org/pick-4/winning-numbers" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>BANGKOK 0930</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">09:15 WIB</span></div>
+  <div class="info">Buka: <span class="open"></span>09:30 WIB</div>
+  <a href="https://bangkokpoolstoday.com" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>NEW YORK EVENING</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">10:25 WIB</span></div>
+  <div class="info">Buka: <span class="open">10:35 WIB</span></div>
+  <a href="https://nylottery.ny.gov" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>KENTUCKY EVENING</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">10:45 WIB</span></div>
+  <div class="info">Buka: <span class="open">11:00 WIB</span></div>
+  <a href="https://www.kylottery.com/apps/" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>CAROLINA EVENING</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">11:17 WIB</span></div>
+  <div class="info">Buka: <span class="open"></span>11:22 WIB</div>
+  <a href="https://nclottery.com/Pick4" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>TOTO CAMBODIA LIVE</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">10:45 WIB</span></div>
+  <div class="info">Buka: <span class="open">11:00 WIB</span></div>
+  <a href="https://totocambodialive.com" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>CHELSEA 11</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">11:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">11:15 WIB</span></div>
+  <a href="https://chelseapools.co.uk" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>OREGON12</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">12:50 WIB</span></div>
+  <div class="info">Buka: <span class="open">13:00 WIB</span></div>
+  <a href="https://www.oregonlottery.org/pick-4/winning-numbers" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>POIPET12</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">12:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">12:30 WIB</span></div>
+  <a href="https://poipetlottery.com" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>BULLSEYE</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">12:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">12:15 WIB</span></div>
+  <a href="https://mylotto.co.nz" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>TOTOMACAU SIANG</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">13:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">13:15 WIB</span></div>
+  <a href="https://poolstotomacao.com" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>SYDNEY</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">13:49 WIB</span></div>
+  <div class="info">Buka: <span class="open">14:05 WIB</span></div>
+  <a href="https://sydneylottobaru.site" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>BRUNEI14</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">14:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">14:45 WIB</span></div>
+  <a href="https://bruneipools.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>CHELSEA 15</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">15:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">15:15 WIB</span></div>
+  <a href="https://chelseapools.co.uk" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMALI1530</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">15:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">15:30 WIB</span></div>
+  <a href="https://totomali.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>POIPET15</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">15:15 WIB</span></div>
+  <div class="info">Buka: <span class="open"></span>15:30 WIB</div>
+  <a href="https://poipetlottery.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMACAU SORE</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">16:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">16:15 WIB</span></div>
+  <a href="https://poolstotomacao.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>HUAHIN 1630</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">16:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">16:30 WIB</span></div>
+  <a href="https://huahinlottery.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+
+<div class="card">
+  <h2>KING KONG4D I</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">17:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">17:15 WIB</span></div>
+  <a href="https://kingkongpools.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>SINGAPORE</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">17:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">17:45 WIB</span></div>
+  <a href="https://www.singaporepools.com.sg/landing/en/Pages/index.html" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>MAGNUM4D</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">18:10 WIB</span></div>
+  <div class="info">Buka: <span class="open">18:40 WIB</span></div>
+  <a href="https://www.magnum4d.my/en/" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMACAU MALAM I	</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">19:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">19:15 WIB</span></div>
+  <a href="https://poolstotomacao.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>CHELSEA 19</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">19:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">19:15 WIB</span></div>
+  <a href="https://chelseapools.co.uk" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>POIPET19</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">19:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">19:45 WIB</span></div>
+  <a href="https://poipetlottery.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>PCSO</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">19:50 WIB</span></div>
+  <div class="info">Buka: <span class="open">20:10 WIB</span></div>
+  <a href="https://www.pcso.gov.ph" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMALI2030</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">20:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">20:30 WIB</span></div>
+  <a href="https://totomali.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>HUAHIN2100</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">20:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">20:45 WIB</span></div>
+  <a href="https://huahinlottery.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>CHELSEA21</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">21:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">21:15 WIB</span></div>
+  <a href="https://chelseapools.co.uk" class="btn">Kunjungi Website</a>
+</div>
+
+<div class="card">
+  <h2>NEVADA</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">21:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">21:30 WIB</span></div>
+  <a href="https://www.nevadalottery.us/" class" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>BRUNEI21</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">21:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">21:45 WIB</span></div>
+  <a href="https://bruneipools.com/" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMACAU MALAM-II</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">22:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">22:15 WIB</span></div>
+  <a href="https://poolstotomacao.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>POIPET22</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">22:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">22:45 WIB</span></div>
+  <a href="https://poipetlottery.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>HONGKONG</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">22:59 WIB</span></div>
+  <div class="info">Buka: <span class="open">23:15 WIB</span></div>
+  <a href="https://lottohongkong.fun" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMACAU MALAM-III</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">23:00 WIB</span></div>
+  <div class="info">Buka: <span class="open">23:15 WIB</span></div>
+  <a href="https://poolstotomacao.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>TOTOMALI2330</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">23:15 WIB</span></div>
+  <div class="info">Buka: <span class="open">23:30 WIB</span></div>
+  <a href="https://totomali.com" class="btn">Kunjungi Website</a>
+</div>
+
+
+<div class="card">
+  <h2>KING KONG4D II</h2>
+  <div class="info">Hari: <span>Senin - Minggu</span></div>
+  <div class="info">Tutup: <span class="close">23:30 WIB</span></div>
+  <div class="info">Buka: <span class="open">23:45 WIB</span></div>
+  <a href="https://kingkongpools.com" class="btn">Kunjungi Website</a>
+</div>
+
+  </div>
+
+</body>
+</html>
